@@ -58,3 +58,9 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annamelya2021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
+
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annamelya2021&theme=neon-dark)](https://git.io/streak-stats)
+ 
+ 
+ 
