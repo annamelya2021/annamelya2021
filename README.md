@@ -17,5 +17,8 @@
 </h1>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
-
+:woman_technologist: About Me : 
+<div>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Frontend Developer  from Ucraine.
+</div>
 
