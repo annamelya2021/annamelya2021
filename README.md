@@ -21,6 +21,22 @@
 <div>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Frontend Developer  from Ucraine.
 </div>
+:hammer_and_wrench: My projects:
+<div> 
+ <a href="https://annamelya2021.github.io/goit-markup-hw-08./" >
+    <img src="https://img.shields.io/badge/-WebStudio%20pet--project-darkblue" alt="WebStudio Badge"/>
+  </a>
+ <a href="https://annamelya2021.github.io/IceCream-Team/" >
+    <img src="https://img.shields.io/badge/-IceCream%20team--project-pink" alt="IceCream Badge"/>
+  </a>
+  <a href="https://annamelya2021.github.io/goit-js-hw-11/" >
+    <img src="https://img.shields.io/badge/-Seach%20pet--project-blueviolet" alt="SeachBadge"/>
+  </a>
+ 
+  <a href="https://vladimir-plotnikov.github.io/nezlamniPRJ/" >
+    <img src="https://img.shields.io/badge/-Filmoteka%20team--project-blue" alt="Filmoteka Badge"/>
+  </a>
+ <div/>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -54,22 +70,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" **alt="yarn" width="40" height="40"/>&nbsp;
 </div>
-My projects:
-<div>
- 
- <a href="https://annamelya2021.github.io/goit-markup-hw-08./" >
-    <img src="https://img.shields.io/badge/-WebStudio%20pet--project-darkblue" alt="WebStudio Badge"/>
-  </a>
- <a href="https://github.com/annamelya2021/IceCream-Team" >
-    <img src="https://img.shields.io/badge/-IceCream%20team--project-pink" alt="IceCream Badge"/>
-  </a>
-  <a href="https://annamelya2021.github.io/goit-js-hw-11/" >
-    <img src="https://img.shields.io/badge/-Seach%20pet--project-blueviolet" alt="SeachBadge"/>
-  </a>
- 
-  <a href="https://github.com/annamelya2021/nezlamniPRJ" >
-    <img src="https://img.shields.io/badge/-Filmoteka%20team--project-blue" alt="Filmoteka Badge"/>
-  </a><div/>
+
 
 
 :fire: My Stats : 
