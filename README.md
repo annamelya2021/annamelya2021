@@ -55,11 +55,6 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" **alt="yarn" width="40" height="40"/>&nbsp;
 </div>
 :fire: My Stats : 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annamelya2021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annamelya2021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<div/>
-  -->
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annamelya2021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
