@@ -18,15 +18,19 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
 <br/>
-:woman_technologist: About Me : 
-<br/>
-<div>
+
+
+<div align="center">
+ :woman_technologist: About Me : 
+ <br/>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Frontend Developer  from Ucraine.
 </div>
-<br/>
- 	:point_right: My projects:
+
+<div align="center"> 
  <br/>
-<div> 
+ 	:point_down: My projects:
+ <br/>
+  <br/>
  <a href="https://annamelya2021.github.io/goit-markup-hw-08./" >
     <img src="https://img.shields.io/badge/-WebStudio%20pet--project-darkblue" alt="WebStudio Badge"/>
   </a>
@@ -41,10 +45,12 @@
   </a>
  <div/>
  <br/>
-:hammer_and_wrench: Languages and Tools :
- <br/>
+
+ 
+<div align="center">
+ :hammer_and_wrench: Languages and Tools :
   <br/>
-<div>
+  <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
