@@ -56,11 +56,14 @@
 </div>
 My progects:
 <div>
+ <a href="https://annamelya2021.github.io/goit-markup-hw-08./" >
+    <img src="https://img.shields.io/badge/-WebStudio%20pet--project-darkblue" alt="WebStudio Badge"/>
+  </a>
  <a href="https://github.com/annamelya2021/IceCream-Team" >
-    <img src="https://img.shields.io/badge/-IceCream%20Project-pink" alt="IceCream Badge"/>
+    <img src="https://img.shields.io/badge/-IceCream%20team--project-pink" alt="IceCream Badge"/>
   </a>
   <a href="https://github.com/annamelya2021/nezlamniPRJ" >
-    <img src="https://img.shields.io/badge/-Filmoteka%20team--progect-blue" alt="Filmoteka Badge"/>
+    <img src="https://img.shields.io/badge/-Filmoteka%20team--project-blue" alt="Filmoteka Badge"/>
   </a><div/>
 
 
