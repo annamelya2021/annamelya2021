@@ -55,9 +55,14 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" **alt="yarn" width="40" height="40"/>&nbsp;
 </div>
 My progects:
-<a href="https://github.com/annamelya2021/IceCream-Team" >
+<div>
+ <a href="https://github.com/annamelya2021/IceCream-Team" >
     <img src="https://img.shields.io/badge/-IceCream%20Project-pink" alt="IceCream Badge"/>
   </a>
+  <a href="https://github.com/annamelya2021/nezlamniPRJ" >
+    <img src="https://img.shields.io/badge/-Filmoteka%20team--progect-blue" alt="Filmoteka Badge"/>
+  </a><div/>
+
 
 :fire: My Stats : 
  
