@@ -1,7 +1,7 @@
 
  <div id="header" align="center">
   <p> Hi there 👋<p/>
-  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/TCBJw2ZLdeOg2bDyLh/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anna-melya/" >
@@ -10,6 +10,9 @@
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=annamelya2021&style=flat-square&color=blue" alt=""/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
 
 
