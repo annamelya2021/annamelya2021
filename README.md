@@ -16,7 +16,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
- <p> Full-stack developer with a track record in two commercial projects. Working successfully both in team and individually, I readily adapt to any project needs, including new tasks and technologies. Goal-oriented and attentive to details, I am passionate about continuous learning and personal development, aiming to enhance and broaden my skills in the field.</p>
 </div>
 <br/>
 <div align="center">
