@@ -19,12 +19,9 @@
  <p> Full-stack developer with a track record in two commercial projects. Working successfully both in team and individually, I readily adapt to any project needs, including new tasks and technologies. Goal-oriented and attentive to details, I am passionate about continuous learning and personal development, aiming to enhance and broaden my skills in the field.</p>
 </div>
 <br/>
-
-
 <div align="center">
  :woman_technologist: About Me : 
-  <p> Full-stack developer with a track record in two commercial projects. Working successfully both in team and individually, I readily adapt to any project needs, including new tasks and technologies. Goal-oriented and attentive to details, I am passionate about continuous learning and personal development, aiming to enhance and broaden my skills in the field.</p>
- <br/>
+  <p> Full-stack developer with a track record in two commercial projects. Working successfully both in team and individually, I readily adapt to any project needs, including new tasks and technologies. Goal-oriented and attentive to details, I am passionate about continuous learning and personal development, aiming to enhance and broaden my skills in the field.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
