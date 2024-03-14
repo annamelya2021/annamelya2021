@@ -23,7 +23,7 @@
 <div align="center">
  :woman_technologist: About Me : 
  <br/>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I'm a Full Stack developer from Ukraine, ready for interesting and challenging tasks, including troubleshooting and routine tasks. My enthusiasm lies in continuous self-improvement, learning new technologies and improving my skills. Known for my communication skills, attention to detail, conflict resolution and accountability, I always follow instructions and deadlines. I thrive on expanding my knowledge and enhancing my existing skill set.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
 <div align="center"> 
