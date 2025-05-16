@@ -24,26 +24,36 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
-<div align="center"> 
 
-<div align="center"> 
-  <h2>:point_down: My Projects</h2>
+<div align="center">
+  <h2>:rocket: My Projects</h2>
   
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-    <!-- Remit -->
+  <!-- Комерційні проекти -->
+  <h3>Commercial Projects</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://remit.es">
-      <img src="https://img.shields.io/badge/REMIT-Web_App-2ea44f?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Remit"/>
+      <img src="https://img.shields.io/badge/REMIT-SMS/Email_Platform-2ea44f?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Remit"/>
     </a>
-    
     <a href="https://fakturae.com">
       <img src="https://img.shields.io/badge/FACTURAE-Invoicing_System-0078d7?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Facturae"/>
     </a>
-    
-  
     <a href="https://es.linkedin.com/company/seniorityai">
       <img src="https://img.shields.io/badge/SENIORITY_AI-Silver_Economy-ff0084?style=for-the-badge&logo=ai&logoColor=white" alt="Señority AI"/>
     </a>
-    
+  </div>
+  
+  <!-- Персональні проекти -->
+  <h3>Personal Projects</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://annamelya2021.github.io/goit-markup-hw-08/">
+      <img src="https://img.shields.io/badge/WebStudio-Portfolio-FF9E0F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebStudio"/>
+    </a>
+    <a href="https://annamelya2021.github.io/IceCream-Team/">
+      <img src="https://img.shields.io/badge/IceCream-Team_Project-00C4FF?style=for-the-badge&logo=netlify&logoColor=white" alt="IceCream"/>
+    </a>
+    <a href="https://vladimir-plotnikov.github.io/nezlamniPRJ/">
+      <img src="https://img.shields.io/badge/Filmoteka-Movie_App-9CF?style=for-the-badge&logo=the-movies&logoColor=black" alt="Filmoteka"/>
+    </a>
   </div>
 </div>
 
@@ -115,4 +125,4 @@
  
    
 </div>
-](https://remit.es/)
+]
