@@ -9,7 +9,7 @@
     <a href="https://github.com/annamelya2021">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:anna.basyuk@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </div>
@@ -34,7 +34,7 @@
 
 <div align="center">
   <h2>:rocket: My Projects</h2>
-  
+
   <!-- Комерційні проекти -->
   <h3>Commercial Projects</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
@@ -47,13 +47,14 @@
     <a href="https://es.linkedin.com/company/seniorityai">
       <img src="https://img.shields.io/badge/SENIORITY_AI-Silver_Economy-ff0084?style=for-the-badge&logo=ai&logoColor=white" alt="Señority AI"/>
     </a>
-      <a href="https://github.com/annamelya2021/mc">
-      <img src="https://img.shields.io/badge/Camino_de_Santiago-Fullstack_Project-6B46C1?style=for-the-badge&logo=github&logoColor=white" alt="Camino de Santiago"/>
+    <a href="https://github.com/annamelya2021/mc">
+      <img src="https://img.shields.io/badge/Camino_de_Santiago-Project-6B46C1?style=for-the-badge&logo=github&logoColor=white" alt="Camino de Santiago"/>
     </a>
   </div>
   
+  <!-- Angular проекти -->
   <h3>Angular Projects</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 15px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://back-umber-two.vercel.app/auth/login">
       <img src="https://img.shields.io/badge/Auth_System-Angular_App-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Auth System"/>
     </a>
@@ -61,10 +62,12 @@
       <img src="https://img.shields.io/badge/Cinema_App-Angular_Project-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Cinema App"/>
     </a>
   </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <h3>Reacr Project</h3>
-<a href="https://annamelya2021.github.io/peli/">
-      <img src="https://img.shields.io/badge/React_Cine-FF4088?style=for-the-badge&logo=portfolio&logoColor=white" alt="React cine"/>
+  
+  <!-- React проекти -->
+  <h3>React Project</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <a href="https://annamelya2021.github.io/peli/">
+      <img src="https://img.shields.io/badge/Movie_App-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Movie App"/>
     </a>
   </div>
 </div>
@@ -95,22 +98,13 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </div>
   
-  <!-- Бази даних -->
-  <h3>Databases</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </div>
-  
   <!-- Інструменти -->
   <h3>Tools</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </div>
 </div>
 
