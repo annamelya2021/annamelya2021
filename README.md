@@ -28,34 +28,30 @@
  <br/>
  	:point_down: My projects:
  <br/>
-  <br/>
- ### Portfolio Projects
+<div align="center"> 
+  <h2>:point_down: My Projects</h2>
+  
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+    <!-- Remit -->
+    <a href="https://remit.es">
+      <img src="https://img.shields.io/badge/REMIT-Web_App-2ea44f?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Remit"/>
+    </a>
+    
+    <!-- Facturae -->
+    <a href="https://fakturae.com">
+      <img src="https://img.shields.io/badge/FACTURAE-Invoicing_System-0078d7?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Facturae"/>
+    </a>
+    
+    <!-- Señority AI -->
+    <a href="https://es.linkedin.com/company/seniorityai">
+      <img src="https://img.shields.io/badge/SENIORITY_AI-Silver_Economy-ff0084?style=for-the-badge&logo=ai&logoColor=white" alt="Señority AI"/>
+    </a>
+    
+  </div>
+</div>
 
-#### Remit (commercial)  
-**Web application for sending SMS and emails** (2024)  
-- Developed key features for mass messaging platform  
-- Integrated with telecom APIs and email service providers  
-- Implemented user management and analytics dashboards  
-**Technologies:** C# .NET Core, Angular, jQuery, Bootstrap, SQL Server  
-[Visit Website](https://remit.es)
+<br/>
 
-#### Facturae (commercial)  
-**Enterprise invoicing and tax compliance system** (2024)  
-- Built modules for invoice generation and tax calculations  
-- Integrated with banking systems and TicketBAI compliance  
-- Developed reporting tools for financial analytics  
-**Technologies:** C# .NET MVC, jQuery, Bootstrap, SQL Server  
-[Visit Website](https://fakturae.com)
-
-#### Señority AI (commercial)  
-**Collaborative ecosystem for Silver Economy** (2024)  
-- Worked in cross-functional team with UX/UI designers and data specialists  
-- Developed responsive interfaces for senior users  
-- Implemented accessibility features and clear navigation  
-**Technologies:** React, Node.js, Express, MongoDB, Vite  
-[Company Profile](https://es.linkedin.com/company/seniorityai)
- <div/>
- <br/>
 
  
 <div align="center">
