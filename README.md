@@ -35,7 +35,6 @@
 <div align="center">
   <h2>:rocket: My Projects</h2>
 
-  <!-- Комерційні проекти -->
   <h3>Commercial Projects</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://remit.es">
@@ -52,7 +51,7 @@
     </a>
   </div>
   
-  <!-- Angular проекти -->
+
   <h3>Angular pet-rojects</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://back-umber-two.vercel.app/auth/login">
@@ -77,7 +76,6 @@
 <div align="center">
   <h2>:hammer_and_wrench: Tech Stack</h2>
   
-  <!-- Мови програмування -->
   <h3>Languages</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 15px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -87,24 +85,12 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </div>
   
-  <!-- Фреймворки та бібліотеки -->
   <h3>Frameworks & Libraries</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 15px;">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </div>
-  
-  <!-- Інструменти -->
-  <h3>Tools</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </div>
 </div>
 
@@ -147,12 +133,6 @@
          <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dot-net" **alt="dot-net" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" **alt="jquery" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" **alt="visualstudio" width="40" height="40"/>&nbsp;
-                       
-                        
-
-
-
-
  
 </div>
 <br/>
@@ -160,8 +140,7 @@
 <div align="center">
   <h2>:bar_chart: GitHub Stats</h2>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=annamelya2021&theme=dark&background=0d1117&border=444)](https://git.io/streak-stats)
-  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=annamelya2021&theme=dark&background=0d1117&border=444)](https://git.io/streak-stats)  
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=annamelya2021&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annamelya2021&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages"/>
