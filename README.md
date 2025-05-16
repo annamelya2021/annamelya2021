@@ -1,4 +1,4 @@
-
+[
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/TCBJw2ZLdeOg2bDyLh/giphy.gif" width="100"/>
 </div>
@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
  :woman_technologist: About Me : 
-  <p> Full-stack developer with a track record in two commercial projects. Working successfully both in team and individually, I readily adapt to any project needs, including new tasks and technologies. Goal-oriented and attentive to details, I am passionate about continuous learning and personal development, aiming to enhance and broaden my skills in the field.
+  <p>Full-stack Developer with experience in four commercial projects. Successfully working both in teams and independently, I easily adapt to any project's needs, including new tasks and technologies. Goal-oriented and detail-focused, I'm passionate about continuous learning and personal development with the aim of improving and expanding my programming skills.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
@@ -29,18 +29,31 @@
  	:point_down: My projects:
  <br/>
   <br/>
- <a href="https://annamelya2021.github.io/goit-markup-hw-08./" >
-    <img src="https://img.shields.io/badge/-WebStudio%20pet--project-darkblue" alt="WebStudio Badge"/>
-  </a>
- <a href="https://annamelya2021.github.io/IceCream-Team/" >
-    <img src="https://img.shields.io/badge/-IceCream%20team--project-pink" alt="IceCream Badge"/>
-  </a>
-  <a href="https://annamelya2021.github.io/goit-js-hw-11/" >
-    <img src="https://img.shields.io/badge/-Seach%20pet--project-blueviolet" alt="SeachBadge"/>
-  </a>
-  <a href="https://vladimir-plotnikov.github.io/nezlamniPRJ/" >
-    <img src="https://img.shields.io/badge/-Filmoteka%20team--project-blue" alt="Filmoteka Badge"/>
-  </a>
+ ### Portfolio Projects
+
+#### Remit (commercial)  
+**Web application for sending SMS and emails** (2024)  
+- Developed key features for mass messaging platform  
+- Integrated with telecom APIs and email service providers  
+- Implemented user management and analytics dashboards  
+**Technologies:** C# .NET Core, Angular, jQuery, Bootstrap, SQL Server  
+[Visit Website](https://remit.es)
+
+#### Facturae (commercial)  
+**Enterprise invoicing and tax compliance system** (2024)  
+- Built modules for invoice generation and tax calculations  
+- Integrated with banking systems and TicketBAI compliance  
+- Developed reporting tools for financial analytics  
+**Technologies:** C# .NET MVC, jQuery, Bootstrap, SQL Server  
+[Visit Website](https://fakturae.com)
+
+#### Señority AI (commercial)  
+**Collaborative ecosystem for Silver Economy** (2024)  
+- Worked in cross-functional team with UX/UI designers and data specialists  
+- Developed responsive interfaces for senior users  
+- Implemented accessibility features and clear navigation  
+**Technologies:** React, Node.js, Express, MongoDB, Vite  
+[Company Profile](https://es.linkedin.com/company/seniorityai)
  <div/>
  <br/>
 
@@ -109,3 +122,4 @@
  
    
 </div>
+](https://remit.es/)
