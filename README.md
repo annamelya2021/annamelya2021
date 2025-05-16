@@ -28,7 +28,7 @@
 <div align="center">
   <h2>:rocket: My Projects</h2>
   
-  <!-- Комерційні проекти -->
+
   <h3>Commercial Projects</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://remit.es">
@@ -42,14 +42,14 @@
     </a>
   </div>
   
-  <!-- Персональні проекти -->
+
   <h3>Personal Projects</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://annamelya2021.github.io/goit-markup-hw-08/">
-      <img src="https://img.shields.io/badge/WebStudio-Portfolio-FF9E0F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebStudio"/>
+    <a href="https://annamelya2021.github.io/">
+      <img src="https://img.shields.io/badge/Peli-Portfolio-FF9E0F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Piliculas"/>
     </a>
-    <a href="https://annamelya2021.github.io/IceCream-Team/">
-      <img src="https://img.shields.io/badge/IceCream-Team_Project-00C4FF?style=for-the-badge&logo=netlify&logoColor=white" alt="IceCream"/>
+    <a href="https://back-umber-two.vercel.app/auth/login">
+      <img src="https://img.shields.io/badge/App-00C4FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Apis/Angular"/>
     </a>
     <a href="https://vladimir-plotnikov.github.io/nezlamniPRJ/">
       <img src="https://img.shields.io/badge/Filmoteka-Movie_App-9CF?style=for-the-badge&logo=the-movies&logoColor=black" alt="Filmoteka"/>
