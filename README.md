@@ -25,9 +25,7 @@
 </div>
 
 <div align="center"> 
- <br/>
- 	:point_down: My projects:
- <br/>
+
 <div align="center"> 
   <h2>:point_down: My Projects</h2>
   
@@ -37,12 +35,11 @@
       <img src="https://img.shields.io/badge/REMIT-Web_App-2ea44f?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Remit"/>
     </a>
     
-    <!-- Facturae -->
     <a href="https://fakturae.com">
       <img src="https://img.shields.io/badge/FACTURAE-Invoicing_System-0078d7?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Facturae"/>
     </a>
     
-    <!-- Señority AI -->
+  
     <a href="https://es.linkedin.com/company/seniorityai">
       <img src="https://img.shields.io/badge/SENIORITY_AI-Silver_Economy-ff0084?style=for-the-badge&logo=ai&logoColor=white" alt="Señority AI"/>
     </a>
