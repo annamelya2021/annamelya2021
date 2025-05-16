@@ -33,8 +33,6 @@
 </div>
 
 <div align="center">
-  <h2>:rocket: My Projects</h2>
-
   <h3>Commercial Projects</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://remit.es">
@@ -50,9 +48,7 @@
       <img src="https://img.shields.io/badge/Camino_de_Santiago-Project-6B46C1?style=for-the-badge&logo=github&logoColor=white" alt="Camino de Santiago"/>
     </a>
   </div>
-  
-
-  <h3>Angular pet-rojects</h3>
+  <h3>Pet-rojects</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://back-umber-two.vercel.app/auth/login">
       <img src="https://img.shields.io/badge/Auth_System-Angular_App-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Auth System"/>
@@ -60,22 +56,13 @@
     <a href="https://cine-tau-ten.vercel.app/cines">
       <img src="https://img.shields.io/badge/Cinema_App-Angular_Project-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Cinema App"/>
     </a>
-  </div>
-  
-  <!-- React проекти -->
-  <h3>React pet-project</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://annamelya2021.github.io/peli/">
       <img src="https://img.shields.io/badge/Movie_App-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Movie App"/>
     </a>
-  </div>
 </div>
-
 <br/>
-
 <div align="center">
   <h2>:hammer_and_wrench: Tech Stack</h2>
-  
   <h3>Languages</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 15px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
